@@ -1,4 +1,3 @@
 # Assignment
-First file
-How to git in Ubuntu?
-This is very easy!
+Fuenkel(20133335)
+Math
